@@ -1,1 +1,3 @@
 Zmiana w pliku 2 Ala ma kota
+
+Dodanie nowej funkcjonalności 
